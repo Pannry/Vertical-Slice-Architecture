@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="VSA_02.Core/VSA_02.Core.csproj" />
+  <Project Path="VSA_02.WebApi/VSA_02.WebApi.csproj" />
+  <Project Path="VSA_02.Cli/VSA_02.Cli.csproj" />
+</Solution>
