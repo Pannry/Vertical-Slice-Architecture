@@ -1,0 +1,12 @@
+@VSA_01_HostAddress = http://localhost:5135
+@id = 1
+
+### POST
+POST {{VSA_01_HostAddress}}/api/v1/user HTTP/1.1
+content-type: application/json
+
+{"name": "João Silva","age": 28}
+
+### GET
+GET {{VSA_01_HostAddress}}/api/v1/user/{{id}}
+Accept: application/json
