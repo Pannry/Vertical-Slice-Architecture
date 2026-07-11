@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using VSA_01.Models;
 
-namespace VSA_01.Features
+namespace VSA_01.Features.Users
 {
     // Contrato do que entra e sai (O Comando/Request e a Resposta)
     public class CreateUserCommand

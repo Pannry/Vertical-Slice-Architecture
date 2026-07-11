@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using VSA_01.Models;
 
-namespace VSA_01.Features
+namespace VSA_01.Features.Users
 {
     // O Manipulador (Regra de Negócio e Banco de Dados tudo na mesma fatia)
     public class GetUsersHandler

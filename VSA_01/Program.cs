@@ -1,4 +1,4 @@
-using VSA_01.Features;
+using VSA_01.Features.Users;
 using VSA_01.Models;
 
 var builder = WebApplication.CreateBuilder(args);
